@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feeweelei.cero.kr/sitemap.xml
